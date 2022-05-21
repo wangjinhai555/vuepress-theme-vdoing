@@ -21,6 +21,7 @@
       target="_blank"
       title="本站主题"
     >Vdoing</a>
+    <a href="https://beian.miit.gov.cn/" target="_blank">陕ICP备18004547号-1</a>
     <template v-if="footer">
       | Copyright © {{ footer.createYear }}-{{ new Date().getFullYear() }}
       <span
